@@ -3,7 +3,7 @@ title: 100 goles del Tito!
 description: Tito marcó su gol numero 100 este sábado frente al Manchester United!
 slug: "gol-100-tito"
 date: 2012-08-26 12:00:00+0000
-image: 2.jpg
+image: 2.png
 categories:
     - Tito
 tags:
@@ -18,7 +18,7 @@ Este sábado quedará grabado en la memoria de **Keko Villalba**. En un escenari
 
 No fue un gol más. Fue el resultado de años de esfuerzo, perseverancia y una relación especial con las redes. Villalba llegó al centenar demostrando que su olfato goleador sigue intacto y que todavía tiene mucho para ofrecer dentro del campo de juego.
 
-![Image 1](1.jpg) ![Image 2](2.jpg)
+![Image 1](1.png) ![Image 2](2.png)
 
 > Photos by [bombombina](https://www.instagram.com/bombombina)
 
