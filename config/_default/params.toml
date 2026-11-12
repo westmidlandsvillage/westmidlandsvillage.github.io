@@ -20,7 +20,7 @@ SortBy              = "default"
 [sidebar]
     emoji    = ""
     subtitle = "Noticias de los boys!"
-    avatar   = "img/avatar.png"
+    avatar   = "img/logo.png"
 
 [article]
     headingAnchor = false
