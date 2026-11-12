@@ -1,7 +1,7 @@
 ---
 title: Se ignaugura el blog de los boys!!
 description: Primer posteo
-slug: hello-world
+slug: ellou-gavna
 date: 1919-02-19 12:00:00+0000
 image: cancha.jpg
 categories:
